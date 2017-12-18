@@ -1,0 +1,9 @@
+Building BitcoinOne
+
+See doc/readme-qt.rst for instructions on building BitcoinOne QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BitcoinOne.
+
+See doc/build-*.txt for instructions on building bitcoinoned,
+the intended-for-services, no-graphical-interface, reference
+implementation of BitcoinOne.
